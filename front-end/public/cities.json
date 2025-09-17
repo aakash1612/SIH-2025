@@ -1,0 +1,22 @@
+[
+  { "name": "Delhi", "country": "IN" },
+  { "name": "Mumbai", "country": "IN" },
+  { "name": "Kolkata", "country": "IN" },
+  { "name": "Chennai", "country": "IN" },
+  { "name": "Bangalore", "country": "IN" },
+  { "name": "Hyderabad", "country": "IN" },
+  { "name": "Pune", "country": "IN" },
+  { "name": "Jaipur", "country": "IN" },
+  { "name": "Lucknow", "country": "IN" },
+  { "name": "Ahmedabad", "country": "IN" },
+  { "name": "Ghaziabad", "country": "IN" },
+  { "name": "Noida", "country": "IN" },
+  { "name": "Surat", "country": "IN" },
+  { "name": "Kanpur", "country": "IN" },
+  { "name": "Nagpur", "country": "IN" },
+  { "name": "Indore", "country": "IN" },
+  { "name": "Bhopal", "country": "IN" },
+  { "name": "Patna", "country": "IN" },
+  { "name": "Chandigarh", "country": "IN" },
+  { "name": "Guwahati", "country": "IN" }
+]
